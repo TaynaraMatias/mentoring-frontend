@@ -1,0 +1,27 @@
+body {
+  margin: 0px;
+}
+
+.preto {
+  background-color: black;
+}
+
+.rosa {
+  background-color: pink;
+}
+
+.cinza {
+  background-color: gray;
+}
+
+.pequeno {
+  height: 70px;
+}
+
+.medio {
+  height: 120px;
+}
+
+.grande {
+  height: 300px;
+}
